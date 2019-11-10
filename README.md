@@ -1,2 +1,3 @@
-# TB12
-Arcade football flicker
+# Sportsball Throw
+Arcade style football passing game.
+
